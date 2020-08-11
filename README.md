@@ -1,2 +1,2 @@
 # Sigmoid
-My graphing software for uni labs
+My graphing software for my university labs
